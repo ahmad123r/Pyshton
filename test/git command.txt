@@ -1,0 +1,18 @@
+git init
+
+git add .
+ 
+
+git commit -m "hi there"
+
+
+git remote add origin <URL>
+
+git remote -v
+
+mkdir test
+
+touch index.html style.css
+
+
+git push origin master
